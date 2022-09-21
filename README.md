@@ -24,6 +24,12 @@ This file contains variety of basic Python scripts outlined below:
   - CTA6 takes 2 lists of 10 values and outputs in Cartesian product format (x,y).
   - CTA8 simulates a basic vehicle inventory program that allows a user to add or delete vehicles based on inputs and outputs inventory to a txt file ('vehicle.txt').
 
+##### Northwind PostgreSQL
+This document outlines the ETL process of creating and populating a PostgreSQL instance of the popular Northwind database. The write-up includes SQL scripts and screenshots of additional scripts.
+ 
+##### Database Fundamentals
+Outlines the process for the creation of an inventory database from inception to ERD to table creation and population in PostgreSQL.
+
 ## Professional Scripts
 Currently a couple of scripts created after my master's program and used during my career at one point or another.
 
