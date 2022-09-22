@@ -1,6 +1,12 @@
 # Projects
 Assortment of projects either completed projects or future ideas.
 
+## For Fun Projects
+These projects are just for me to experiment with various models and try stuff out.
+
+##### Customer Segmentation via K-Means Clustering (Python)
+Based on UCI ML Repo's Online Retail dataset, segmented the customer base according to recency, frequency, and monetary value (RFM) scores. This script includes data that isn't on my devices, so anyone can rip it and stick it on their own devices to try it out.
+
 ## MS Program Portfolios
 
 The zip file contains projects completed during my data analytics master's program. It contains projects completed in Python, R, and PostgreSQL. Below is a compiled list of the folder's contents. Each file is presented in Word documents as work submitted during the program.
