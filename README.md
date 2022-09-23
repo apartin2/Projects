@@ -7,6 +7,9 @@ These projects are just for me to experiment with various models and try stuff o
 ##### Customer Segmentation via K-Means Clustering (Python)
 Based on UCI ML Repo's Online Retail dataset, segmented the customer base according to recency, frequency, and monetary value (RFM) scores. This script includes data that isn't on my devices, so anyone can rip it and stick it on their own devices to try it out.
 
+##### Plagarism Checker (Python)
+Searches file location for .txt files and compares their contents returning a similarity score.
+
 ## MS Program Portfolios
 
 The zip file contains projects completed during my data analytics master's program. It contains projects completed in Python, R, and PostgreSQL. Below is a compiled list of the folder's contents. Each file is presented in Word documents as work submitted during the program.
